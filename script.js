@@ -3,8 +3,8 @@ const repoConfig = {
     name: "OptoGuess",
     branch: "main",
     paths: {
-        scole: "images/scoleparty",
-        other: "images/otherparty"
+        scole: "images/main",
+        other: "images/expansion"
     }
 };
 
