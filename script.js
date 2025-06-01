@@ -1,6 +1,6 @@
 const repoConfig = {
-    owner: "scottctram",
-    name: "guesswho",
+    owner: "djungelskogit",
+    name: "OptoGuess",
     branch: "main",
     paths: {
         scole: "images/scoleparty",
